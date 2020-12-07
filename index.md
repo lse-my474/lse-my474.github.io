@@ -1,0 +1,166 @@
+---
+papersize: a4
+documentclass: scrartcl
+classoption: DIV=14
+colorlinks: true
+---
+
+![LSE](images/lse-logo.jpg)
+# MY474 - Applied Machine Learning for Social Science
+
+### Lent Term 2021
+
+### Instructors
+
+* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 9:00-11:00 (held on Zoom, book via Student Hub)
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
+* [Siân Brooke](mailto:s.j.brooke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
+* [Sarah Jewett](mailto:s.jewett1@lse.ac.uk), European Institute.  *Office hours*: TBD (book via Student Hub)
+
+[comment]: <> (### Teaching Assistants)
+
+### Course Information
+
+* Lectures Prerecorded
+* Class times TBD
+
+No lectures or classes will take place during School Reading Week 6.
+
+| **Week** | **Topic**                            | **Instructor** |
+|:----------:|:--------------------------------------|:---------|
+| 1        | [What is Machine Learning?](#week-1)       | BM |
+| 2        | [Measuring Error; Inference, Prediction, and Causality](#week-2) | BM |
+| 3        | [Logistic Regression](#week-3)       | BM |
+| 4        | [Bias and Variance, Cross-Validation](#week-4)                  | BM |
+| 5        | [Features, Model selection, Support Vector Machines](#week-5)          | BM |
+| 6        | _Reading Week_                       | - |
+| 7        | [Regularization, Decision Trees](#week-7) | BM |
+| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8)                   | BM |
+| 9       | [Ensembles, Bagging, Boosting](#week-9)           | FG |
+| 10       | [Dimension Reduction and Clustering](#week-10)           | FG |
+| 11        | [Other Varieties of Machine Learning](#week-11)           | FG |
+
+### Course Description
+
+The amount of data available to social science researchers has exploded in recent years. Advances in machine learning have given social scientists new tools to make sense of these data to answer big and important questions that we did not have the tools to answer just a few years before. For example, some researchers have used machine learning to explore patterns in large databases of text in an effort to identify how the racial and gender biases encoded in language have changed over time. Others have used machine learning methods to detect and analyze the behavior of state-sponsored bots and trolls and the content they produce. In this class we will introduce a wide range of machine learning methods and their applications to social science.
+
+The course surveys machine learning methods and concepts with the application to social sciences in mind. We begin with discussions of how machine learning methods can be adapted from the predictive purposes for which they were originally designed, to the ultimate goal of inference. We will then move on to a survey of common machine learning models for classification and regression, frameworks for out-of-sample validation, and finally, a discussion of unsupervised learning and a brief overview of state-of-the-art methods such as deep learning, reinforcement learning, and active learning.
+
+### Objectives
+
+* To introduce the theoretical foundations of machine learning, statistical inference, and prediction
+* To explore the many applications of statistical machine learning to social science research
+* To examine the broader social impacts of algorithms and machine learning on contemporary politics and society
+
+### Prerequisites
+
+Applied Regression Analysis (MY452) or equivalent is required. In short, you should 1) understand linear regression and logistic regression and 2) know the basics of a programming language. 
+
+Students in this course will strongly benefit from prior experience with the R programming language. Class assignments will be completed in R. If you do not know R, you will have to invest extra time on your own to learn the language.
+
+### Textbooks and Course Materials
+
+All course materials are available for free download. The R books are for your own reference and will not be assigned as readings for the class.
+
+* James, Gareth, et al. An Introduction to Statistical Learning (ISL). New York: Springer, 2013. [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
+* Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. The Elements of Statistical Learning (ESL). Vol. 1. No. 10. New York: Springer Series in Statistics, 2001. [https://web.stanford.edu/~hastie/ElemStatLearn/](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* Wickham, Hadley. Advanced R. Chapman and Hall/CRC, 2014. [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)
+
+### Required Software
+
+The ISL textbook uses the R programming language for labs that you are required to complete at home before class. R and R Markdown (via R Studio) will also be used in summative assessments, in-class exercises, and for your final assessment.
+
+* Install R: [http://cran.rstudio.com/](http://cran.rstudio.com/)
+* Install RStudio: ![http://www.rstudio.com/products/rstudio/download/](http://www.rstudio.com/products/rstudio/download/)
+
+### Assessments
+
+* Problem Sets (40%) in the LT.
+* Multiple Choice Assessment (30%) in the LT.
+* Take-home assessment (30%) in the ST (Master's and PhD students will have different assessments, see below).
+
+#### Problem Sets for master's students enrolled in MY474 and PhD students enrolled in MY574 (40\% of total mark)
+
+Problem sets consist of two parts:
+
+1. Written responses
+2. Coding questions
+
+Both parts should be included in the Rmd and PDF files to be uploaded to Moodle.
+
+One formative problem set will **not** count toward your final mark, but will give you an idea of how problem sets are structured:
+
+* Problem Set 1 (Formative, i.e. not graded)
+
+There will be four summative problem sets that will count toward the final grade:
+
+* Problem Set 2 (Summative) - Due Week 4 seminar
+* Problem Set 3 (Summative) - Due Week 7 seminar
+* Problem Set 4 (Summative) - Due Week 9 seminar
+* Problem Set 5 (Summative) - Due Week 11 seminar
+
+#### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30\% of total mark)
+
+The multiple choice assessment is a timed quiz administered on Moodle, and is based on lecture, seminars, and readings. The exam will be released on Moodle at 7:00am on Monday of Week 11. You can start any time between 7:00am and 2:00pm, but the exam is timed and must be completed within 1 hour. Once the Moodle exam is opened, you will have 1 hour to complete it. After 1 hour your exam will be automatically submitted and you will have no further access to the exam. The exam must be submitted by 2:00pm.
+
+#### Take Home Assessment for master's students enrolled in MY474 (Due Monday, May 24, 2021 by 2pm, 30\% of total mark)
+
+1. **Kaggle competition classifying toxic comments (10\% of total mark):** A text classification competition will be hosted on the Kaggle website for all students enrolled in the class. Students will submit model predictions for held-out data to Kaggle and the performance of their model output will be calculated on the Kaggle site. The competition will open to students the first day of Summer Term.
+2. **Code report and write-up (submitted as Rmd and PDF on Moodle, 20\% of total mark)**: Code reproducing the prediction file uploaded to Kaggle should be provided in a Rmd file in chunks that are annotated. Code should be supplemented by a writeup that documents 1) how you settled on the final model, 2) the reasoning behind modelling choices, 3) how you evaluated each iteration of your model, 4) a discussion of feature engineering choices, and 5) conclusions and reflections on the modelling process. The writeup is due at 2:00pm on May 24, 2021.
+
+#### Take Home Assessment for PhD students enrolled in MY574 (Due Monday, May 24, 2021 by 2pm, 30\% of total mark)
+
+PhD students are expected to submit a 3000-word paper in which they identify and contextualize a relevant social data science problem related to their dissertation research, find suitable data to address it, plan and conduct extensive machine learning analysis on the data, and present the findings. Marking of these assessments will be at a level appropriate for PhD students.
+
+##### Project proposal (10\% of take home assessment, due Week 7 Seminar):
+
+The project proposal should be 1.5 to 2 pages, double spaced. I will provide feedback on the proposals to make sure you are on the right track for the final take home assessment. The proposal will contribute 3% toward your final grade so take it seriously.
+
+Guidelines:
+
+* Introduce your dataset(s). What are variables of interest to you?
+* What are your research goals? What questions are you asking? Why are they important? What will we learn from your analysis?
+* Is your goal prediction, (causal) inference, description, or some combination of the three?
+* What are your methods? What tools from class will you use to accomplish these goals?
+* Writing should be clear, well-structured, and easy to follow.
+
+##### Project Report (Due Monday, May 24, 2021 by 2pm, 30\% of total mark)
+
+PhD students will submit a project report, which is a 3000-word paper in which they identify and contextualize a relevant social data science problem related to their dissertation research, find suitable data to address it, plan and conduct extensive machine learning analysis on the data, and present the findings. This report should be thought of as a first draft of a paper to submit to a scholarly journal. The analysis need not be ready for publication, but should suggest a roadmap for eventual publication (through discussion of additional analyses to be conducted, additional data to be collected, etc.) Format your report like you would an academic paper. In addition to the paper, you should also include an R markdown file with code and figures used for the analysis. These components should be submitted on Moodle.
+
+### Marking Criteria
+
+#### Written Assignments
+
+Written assignments will be marked using the following criteria:
+
+* 70–100: Very Good to Excellent (Distinction). Perceptive, focused use of a good depth of material with a critical edge. Coherent well-read and researched answers. Original ideas or structure of argument.
+
+* 60–69: Good (Merit). Perceptive understanding of the material. Coherent well-read and researched answers.
+
+* 50–59: Satisfactory (Pass). A "correct" answer based largely on lecture material. Little detail or originality but presented in adequate framework. Small factual errors allowed.
+
+* 30–49: Unsatisfactory (Fail) and 0–29: Unsatisfactory (Bad fail). Based entirely on lecture material but unstructured and with increasing error component. Concepts are disordered or flawed. Poor presentation. Errors of concept and scope or poor in knowledge, structure and expression.
+
+#### Short Answer and Coding Assignments
+
+Some of the assignments will involve shorter questions or coding assignments, to which the answers can be relatively unambiguously coded as (fully or partially) correct or incorrect. In the marking, these questions may be further broken down into smaller steps and marked step by step. The final mark is then a function of the proportion of parts of the questions which have been answered correctly. In such marking, the principle of partial credit is observed as far as feasible. This means that an answer to a part of a question will be treated as correct when it is correct conditional on answers to other parts of the question, even if those other parts have been answered incorrectly. If code output is incorrect but it is clear that some of the implementation has been correctly executed, partial credit will be given as far as feasible.
+
+Short answer and coding assignments will be marked using the following criteria:
+
+* 70-100: Distinction
+* 60-69: Merit
+* 50-59: Pass
+* 30-49: Fail
+* 0-29: Bad Fail
+
+#### Final Assessment Coding Competition
+
+Scores for the final coding competition will be calculated on Kaggle and grades will be determined by ranking in competition:
+
+- Top 2: 100
+- First Quintile: 95
+- Second Quintile: 90
+- Third Quintile: 85
+- Fourth Quintile: 80
+- Fifth Quintile: 75
