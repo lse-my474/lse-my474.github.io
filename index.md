@@ -30,7 +30,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality) | BM |
 | 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)       | BM |
 | 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                  | BM |
-| 5        | [Linear Discriminants, Support Vector Machines, Active Learning](#week-5-support-vector-machines-active-learning)          | BM |
+| 5        | [Support Vector Machines, Active Learning](#week-5-support-vector-machines-active-learning)          | BM |
 | 6        | _Reading Week_                       | - |
 | 7        | [Regularization, Decision Trees](#week-7-regularization-decision-trees) | BM |
 | 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml)                   | BM |
@@ -78,7 +78,7 @@ The ISL textbook uses the R programming language for labs that you are required 
 * Multiple Choice Assessment (30%) in the LT.
 * Take-home assessment (30%) in the ST (Master's and PhD students will have different assessments, see below).
 
-#### Problem Sets for master's students enrolled in MY474 and PhD students enrolled in MY574 (40\% of total mark)
+#### Problem Sets for master's students enrolled in MY474 and PhD students enrolled in MY574 (40% of total mark)
 
 Problem sets consist of two parts:
 
@@ -98,20 +98,20 @@ There will be four summative problem sets that will count toward the final grade
 * Problem Set 4 (Summative) - Due Week 9 seminar
 * Problem Set 5 (Summative) - Due Week 11 seminar
 
-#### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30\% of total mark)
+#### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
 
 The multiple choice assessment is a timed quiz administered on Moodle, and is based on lecture, seminars, and readings. The exam will be released on Moodle at 7:00am on Monday of Week 11. You can start any time between 7:00am and 2:00pm, but the exam is timed and must be completed within 1 hour. Once the Moodle exam is opened, you will have 1 hour to complete it. After 1 hour your exam will be automatically submitted and you will have no further access to the exam. The exam must be submitted by 2:00pm.
 
-#### Take Home Assessment for master's students enrolled in MY474 (Due Monday, May 24, 2021 by 2pm, 30\% of total mark)
+#### Take Home Assessment for master's students enrolled in MY474 (Due Monday, May 24, 2021 by 2pm, 30% of total mark)
 
-1. **Kaggle competition classifying toxic comments (10\% of total mark):** A text classification competition will be hosted on the Kaggle website for all students enrolled in the class. Students will submit model predictions for held-out data to Kaggle and the performance of their model output will be calculated on the Kaggle site. The competition will open to students the first day of Summer Term.
-2. **Code report and write-up (submitted as Rmd and PDF on Moodle, 20\% of total mark)**: Code reproducing the prediction file uploaded to Kaggle should be provided in a Rmd file in chunks that are annotated. Code should be supplemented by a writeup that documents 1) how you settled on the final model, 2) the reasoning behind modelling choices, 3) how you evaluated each iteration of your model, 4) a discussion of feature engineering choices, and 5) conclusions and reflections on the modelling process. The writeup is due at 2:00pm on May 24, 2021.
+1. **Kaggle competition classifying toxic comments (10% of total mark):** A text classification competition will be hosted on the Kaggle website for all students enrolled in the class. Students will submit model predictions for held-out data to Kaggle and the performance of their model output will be calculated on the Kaggle site. The competition will open to students the first day of Summer Term.
+2. **Code report and write-up (submitted as Rmd and PDF on Moodle, 20% of total mark)**: Code reproducing the prediction file uploaded to Kaggle should be provided in a Rmd file in chunks that are annotated. Code should be supplemented by a writeup that documents 1) how you settled on the final model, 2) the reasoning behind modelling choices, 3) how you evaluated each iteration of your model, 4) a discussion of feature engineering choices, and 5) conclusions and reflections on the modelling process. The writeup is due at 2:00pm on May 24, 2021.
 
-#### Take Home Assessment for PhD students enrolled in MY574 (Due Monday, May 24, 2021 by 2pm, 30\% of total mark)
+#### Take Home Assessment for PhD students enrolled in MY574 (Due Monday, May 24, 2021 by 2pm, 30% of total mark)
 
 PhD students are expected to submit a 3000-word paper in which they identify and contextualize a relevant social data science problem related to their dissertation research, find suitable data to address it, plan and conduct extensive machine learning analysis on the data, and present the findings. Marking of these assessments will be at a level appropriate for PhD students.
 
-##### Project proposal (10\% of take home assessment, due Week 7 Seminar):
+##### Project proposal (10% of take home assessment, due Week 7 Seminar):
 
 The project proposal should be 1.5 to 2 pages, double spaced. I will provide feedback on the proposals to make sure you are on the right track for the final take home assessment. The proposal will contribute 3% toward your final grade so take it seriously.
 
@@ -123,7 +123,7 @@ Guidelines:
 * What are your methods? What tools from class will you use to accomplish these goals?
 * Writing should be clear, well-structured, and easy to follow.
 
-##### Project Report (Due Monday, May 24, 2021 by 2pm, 30\% of total mark)
+##### Project Report (Due Monday, May 24, 2021 by 2pm, 30% of total mark)
 
 PhD students will submit a project report, which is a 3000-word paper in which they identify and contextualize a relevant social data science problem related to their dissertation research, find suitable data to address it, plan and conduct extensive machine learning analysis on the data, and present the findings. This report should be thought of as a first draft of a paper to submit to a scholarly journal. The analysis need not be ready for publication, but should suggest a roadmap for eventual publication (through discussion of additional analyses to be conducted, additional data to be collected, etc.) Format your report like you would an academic paper. In addition to the paper, you should also include an R markdown file with code and figures used for the analysis. These components should be submitted on Moodle.
 
