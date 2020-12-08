@@ -26,17 +26,17 @@ No lectures or classes will take place during School Reading Week 6.
 
 | **Week** | **Topic**                            | **Instructor** |
 |:----------:|:--------------------------------------|:---------|
-| 1        | [What is Machine Learning?](#week-1)       | BM |
-| 2        | [Generalization, Inference, Prediction, and Causality](#week-2) | BM |
-| 3        | [Logistic Regression](#week-3)       | BM |
-| 4        | [Features, Model selection, Cross-Validation](#week-4)                  | BM |
-| 5        | [Linear Discriminants, Support Vector Machines, Active Learning](#week-5)          | BM |
+| 1        | [What is Machine Learning?](#week-1-what-is-machine-learning)       | BM |
+| 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality) | BM |
+| 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)       | BM |
+| 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                  | BM |
+| 5        | [Linear Discriminants, Support Vector Machines, Active Learning](#week-5-support-vector-machines-active-learning)          | BM |
 | 6        | _Reading Week_                       | - |
-| 7        | [Regularization, Decision Trees](#week-7) | BM |
-| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8)                   | BM |
-| 9       | [Ensembles, Bagging, Boosting](#week-9)           | FG |
-| 10       | [Dimension Reduction and Clustering](#week-10)           | FG |
-| 11        | [Other Varieties of Machine Learning](#week-11)           | FG |
+| 7        | [Regularization, Decision Trees](#week-7-regularization-decision-trees) | BM |
+| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml)                   | BM |
+| 9       | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)           | FG |
+| 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)           | FG |
+| 11        | [Other Varieties of Machine Learning](#week-11-other-varieties-of-machine-learning)           | FG |
 
 ### Course Description
 
@@ -203,7 +203,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * Feature Engineering and Selection Ch. 3
 
 *Further Reading:*
-* Aloís Bissuel. "Hyper-parameter optimization algorithms: a short review." Medium. \href{https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903}{https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903}
+* Aloís Bissuel. "Hyper-parameter optimization algorithms: a short review." Medium. ([Access article here](https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903))
 * Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
 * Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
 
