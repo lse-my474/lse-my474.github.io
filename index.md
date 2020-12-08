@@ -17,8 +17,6 @@ colorlinks: true
 * [Siân Brooke](mailto:s.j.brooke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
 * [Sarah Jewett](mailto:s.jewett1@lse.ac.uk), European Institute.  *Office hours*: TBD (book via Student Hub)
 
-[comment]: <> (### Teaching Assistants)
-
 ### Course Information
 
 * Lectures Prerecorded
@@ -29,10 +27,10 @@ No lectures or classes will take place during School Reading Week 6.
 | **Week** | **Topic**                            | **Instructor** |
 |:----------:|:--------------------------------------|:---------|
 | 1        | [What is Machine Learning?](#week-1)       | BM |
-| 2        | [Measuring Error; Inference, Prediction, and Causality](#week-2) | BM |
+| 2        | [Generalization, Inference, Prediction, and Causality](#week-2) | BM |
 | 3        | [Logistic Regression](#week-3)       | BM |
-| 4        | [Bias and Variance, Cross-Validation](#week-4)                  | BM |
-| 5        | [Features, Model selection, Support Vector Machines](#week-5)          | BM |
+| 4        | [Features, Model selection, Cross-Validation](#week-4)                  | BM |
+| 5        | [Linear Discriminants, Support Vector Machines, Active Learning](#week-5)          | BM |
 | 6        | _Reading Week_                       | - |
 | 7        | [Regularization, Decision Trees](#week-7) | BM |
 | 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8)                   | BM |
@@ -64,6 +62,7 @@ All course materials are available for free download. The R books are for your o
 
 * James, Gareth, et al. An Introduction to Statistical Learning (ISL). New York: Springer, 2013. [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/)
 * Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. The Elements of Statistical Learning (ESL). Vol. 1. No. 10. New York: Springer Series in Statistics, 2001. [https://web.stanford.edu/~hastie/ElemStatLearn/](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* Kuhn, Max, and Kjell Johnson. Feature Engineering and Selection: A Practical Approach for Predictive Models. CRC Press, 2019. [https://bookdown.org/max/FES/](https://bookdown.org/max/FES/)
 * Wickham, Hadley. Advanced R. Chapman and Hall/CRC, 2014. [https://adv-r.hadley.nz/](https://adv-r.hadley.nz/)
 
 ### Required Software
@@ -164,3 +163,100 @@ Scores for the final coding competition will be calculated on Kaggle and grades 
 - Third Quintile: 85
 - Fourth Quintile: 80
 - Fifth Quintile: 75
+
+### Schedule
+
+#### Week 1. [What is Machine Learning?](https://github.com/lse-my474/lectures/blob/master/week1/)
+
+This week we focus on the big picture: what is machine learning? We explore the main varieties of what we consider machine learning and discuss the problems involved in prediction and generalization from training data.
+
+*Reading:*
+* Learning from Data (LDF) Ch. 1
+* Introduction to Statistical Learning (ISL) 2.1-2.3
+* ISL 3.1-3.3
+
+*Further Reading:*
+* Elements of Statistical Learning (ESL) 2.1-2.6
+
+#### Week 2: [Generalization, Inference, Prediction, and Causality](https://github.com/lse-my474/lectures/blob/master/week2/)
+
+*Reading:*
+* LFD Ch. 2
+* Titiunik, Rocío. "Can Big Data Solve the Fundamental Problem of Causal Inference?." PS: Political Science \& Politics 48.1 (2015): 75-79.
+* Monroe, Burt L.; Pan, Jennifer; Roberts, Margaret E.; Sen, Maya, and Betsy Sinclair. 2015. "No! Formal Theory, Causal Inference, and Big Data Are Not Contradictory Trends in Political Science." PS: Political Science and Politics.
+
+*Further Reading:*
+* Mullainathan, Sendhil, and Jann Spiess. 2017. "Machine Learning: An Applied Econometric Approach." Journal of Economic Perspectives, 31 (2): 87-106.
+
+<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+
+#### Week 3: [Linear Discriminant Analysis, Logistic Regression](https://github.com/lse-my474/lectures/blob/master/week3/)
+
+*Reading:*
+* ISL 4.1-4.3
+* ISL Lab 4.6.2
+
+#### Week 4: [Features, Model selection, Cross-Validation](https://github.com/lse-my474/lectures/blob/master/week4/)
+
+*Reading:*
+* ISL 5.1, Lab 5.3.1-5.3.3
+* Feature Engineering and Selection Ch. 3
+
+*Further Reading:*
+* Aloís Bissuel. "Hyper-parameter optimization algorithms: a short review." Medium. \href{https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903}{https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903}
+* Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
+* Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
+
+<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+
+#### Week 5: [Support Vector Machines, Active Learning](https://github.com/lse-my474/lectures/blob/master/week5/)
+
+*Reading:*
+* ISL Ch. 9
+* Miller, Blake, Fridolin Linder, and Walter R. Mebane. "Active learning approaches for labeling text: review and assessment of the performance of active learning approaches." Political Analysis 28.4 (2020): 532-551.
+
+*Further Reading:*
+* Barberá, Pablo, et al. "Automated text classification of news articles: A practical guide." Political Analysis (2019): 1-24.
+
+#### Week 7: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week7/)
+
+*Reading:*
+* ISL 6.2, 6.4
+* ISL 8.1
+
+<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+
+#### Week 8: [Bias, Fairness, Accountability, and Transparency in ML](https://github.com/lse-my474/lectures/blob/master/week8/)
+
+*Reading:*
+* Crawford, Kate. The Trouble with Bias. Link: [Access video here](https://www.youtube.com/watch?v=fMym_BKWQzk)
+* Wallach, Hanna. "Big Data, Machine Learning, and the Social Sciences: Fairness, Accountability, and Transparency." NeurIPS Workshop on Fairness, Accountability, and Transparency in Machine Learning. 2014.
+* Deibert, Ronald J. "The Road to Digital Unfreedom: Three Painful Truths About Social Media." Journal of Democracy 30.1 (2019): 25-39.
+
+*Further Reading:*
+* Bolukbasi, Tolga, et al. "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings." Advances in Neural Information Processing Systems. 2016.
+* Levin, Sam. "Imprisoned by algorithms: the dark side of California ending cash bail." The Guardian. 2018. ([Access article here](https://www.theguardian.com/us-news/2018/sep/07/imprisoned-by-algorithms-the-dark-side-of-california-ending-cash-bail))
+* Rajagopalan, Megha. "This Is What A 21st-Century Police State Really Looks Like." February 2, 2018 ([Access article here](https://www.buzzfeednews.com/article/meghara/the-police-state-of-the-future-is-already-here))
+
+
+#### Week 9: [Ensembles, Bagging, Boosting](https://github.com/lse-my474/lectures/blob/master/week9/)
+
+*Reading:*
+* ISL 8.2
+
+*Further Reading:*
+* Hill, Daniel W., and Zachary M. Jones. "An Empirical Evaluation of Explanations for State Repression." American Political Science Review 108.3 (2014): 661-687.
+
+<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+
+#### Week 10: [Dimension Reduction and Clustering](https://github.com/lse-my474/lectures/blob/master/week10/)
+
+*Reading:*
+* ISL Ch. 10
+
+#### Week 11: [Other Varieties of Machine Learning](https://github.com/lse-my474/lectures/blob/master/week11/)
+
+*Reading:*
+* TBD
+
+<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
