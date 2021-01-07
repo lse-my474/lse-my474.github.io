@@ -30,9 +30,9 @@ No lectures or classes will take place during School Reading Week 6.
 | 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality) | BM |
 | 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)       | BM |
 | 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                  | BM |
-| 5        | [Support Vector Machines, Active Learning](#week-5-support-vector-machines-active-learning)          | BM |
+| 5        | [Regularization, Decision Trees](#week-5-regularization-decision-trees) | BM |
 | 6        | _Reading Week_                       | - |
-| 7        | [Regularization, Decision Trees](#week-7-regularization-decision-trees) | BM |
+| 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)          | BM |
 | 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml)                   | BM |
 | 9       | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)           | FG |
 | 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)           | FG |
@@ -209,7 +209,13 @@ This week we focus on the big picture: what is machine learning? We explore the 
 
 <!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
 
-#### Week 5: [Support Vector Machines, Active Learning](https://github.com/lse-my474/lectures/blob/master/week5/)
+#### Week 5: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week5/)
+
+*Reading:*
+* ISL 6.2, 6.4
+* ISL 8.1
+
+#### Week 7: [Support Vector Machines, Active Learning](https://github.com/lse-my474/lectures/blob/master/week7/)
 
 *Reading:*
 * ISL Ch. 9
@@ -217,12 +223,6 @@ This week we focus on the big picture: what is machine learning? We explore the 
 
 *Further Reading:*
 * Barberá, Pablo, et al. "Automated text classification of news articles: A practical guide." Political Analysis (2019): 1-24.
-
-#### Week 7: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week7/)
-
-*Reading:*
-* ISL 6.2, 6.4
-* ISL 8.1
 
 <!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
 
