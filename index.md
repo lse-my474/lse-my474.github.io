@@ -92,14 +92,14 @@ Both parts should be included in the Rmd and PDF files to be uploaded to Moodle.
 
 One formative problem set will **not** count toward your final mark, but will give you an idea of how problem sets are structured:
 
-* Problem Set 1 (Formative, i.e. not graded)
+* Problem Set 1 (Formative) - Due Monday 08/02/2021 11.59pm
 
 There will be four summative problem sets that will count toward the final grade:
 
-* Problem Set 2 (Summative) - Due Week 4 seminar
-* Problem Set 3 (Summative) - Due Week 7 seminar
-* Problem Set 4 (Summative) - Due Week 9 seminar
-* Problem Set 5 (Summative) - Due Week 11 seminar
+* Problem Set 2 (Summative) - Due Monday 22/02/2021 11.59pm
+* Problem Set 3 (Summative) - Due Monday 15/03/2021 11.59pm
+* Problem Set 4 (Summative) - Due Monday 29/03/2021 11.59pm
+* Problem Set 5 (Summative) - Due Thursday 01/04/2021 11.59pm
 
 #### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
 
