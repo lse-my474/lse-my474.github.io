@@ -96,9 +96,9 @@ One formative problem set will **not** count toward your final mark, but will gi
 
 There will be four summative problem sets that will count toward the final grade:
 
-* Problem Set 2 (Summative) - Due Monday 22/02/2021 11.59pm
-* Problem Set 3 (Summative) - Due Monday 15/03/2021 11.59pm
-* Problem Set 4 (Summative) - Due Monday 29/03/2021 11.59pm
+* Problem Set 2 (Summative) - Due Friday 19/02/2021 11.59pm
+* Problem Set 3 (Summative) - Due Monday 01/03/2021 11.59pm
+* Problem Set 4 (Summative) - Due Friday 12/03/2021 11.59pm
 * Problem Set 5 (Summative) - Due Thursday 01/04/2021 11.59pm
 
 #### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
