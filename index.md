@@ -13,7 +13,7 @@ colorlinks: true
 ### Instructors
 
 * [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 9:00-11:00 (held on Zoom, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 16:00-18:00 (book via Student Hub)
 * [Siân Brooke](mailto:s.j.brooke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
 * [Sarah Jewett](mailto:s.jewett1@lse.ac.uk), European Institute.  *Office hours*: TBD (book via Student Hub)
 
