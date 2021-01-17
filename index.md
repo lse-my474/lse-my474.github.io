@@ -176,7 +176,6 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Reading:*
 * Learning from Data (LDF) Ch. 1
 * Introduction to Statistical Learning (ISL) 2.1-2.3
-* ISL 3.1-3.3
 
 *Further Reading:*
 * Elements of Statistical Learning (ESL) 2.1-2.6
@@ -184,11 +183,11 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 2: [Generalization, Inference, Prediction, and Causality](https://github.com/lse-my474/lectures/blob/master/week2/)
 
 *Reading:*
-* LFD Ch. 2
 * Titiunik, Rocío. "Can Big Data Solve the Fundamental Problem of Causal Inference?." PS: Political Science \& Politics 48.1 (2015): 75-79.
 * Monroe, Burt L.; Pan, Jennifer; Roberts, Margaret E.; Sen, Maya, and Betsy Sinclair. 2015. "No! Formal Theory, Causal Inference, and Big Data Are Not Contradictory Trends in Political Science." PS: Political Science and Politics.
 
 *Further Reading:*
+* LFD Ch. 2
 * Mullainathan, Sendhil, and Jann Spiess. 2017. "Machine Learning: An Applied Econometric Approach." Journal of Economic Perspectives, 31 (2): 87-106.
 
 <!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
@@ -196,16 +195,16 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 3: [Linear Discriminant Analysis, Logistic Regression](https://github.com/lse-my474/lectures/blob/master/week3/)
 
 *Reading:*
-* ISL 4.1-4.3
-* ISL Lab 4.6.2
+* ISL Ch. 3 (If you need a refresher on linear regression)
+* ISL Ch. 4
 
 #### Week 4: [Features, Model selection, Cross-Validation](https://github.com/lse-my474/lectures/blob/master/week4/)
 
 *Reading:*
-* ISL 5.1, Lab 5.3.1-5.3.3
-* Feature Engineering and Selection Ch. 3
+* ISL Ch. 5
 
 *Further Reading:*
+* Feature Engineering and Selection Ch. 3
 * Aloís Bissuel. "Hyper-parameter optimization algorithms: a short review." Medium. ([Access article here](https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903))
 * Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
 * Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
