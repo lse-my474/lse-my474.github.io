@@ -83,6 +83,8 @@ The ISL textbook uses the R programming language for labs that you are required 
 
 #### Problem Sets for master's students enrolled in MY474 and PhD students enrolled in MY574 (40% of total mark)
 
+Problem sets will be assigned at the beginning of each lab session. These will involve computer exercises applied to data supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 40% of the course grade.
+
 Problem sets consist of two parts:
 
 1. Written responses
@@ -92,14 +94,14 @@ Both parts should be included in the Rmd and PDF files to be uploaded to Moodle.
 
 One formative problem set will **not** count toward your final mark, but will give you an idea of how problem sets are structured:
 
-* Problem Set 1 (Formative) - Due Monday 08/02/2021 11.59pm
+* Problem Set 1 (Formative): Due Wednesday 10/02/2021 1:00pm
 
 There will be four summative problem sets that will count toward the final grade:
 
-* Problem Set 2 (Summative) - Due Friday 19/02/2021 11.59pm
-* Problem Set 3 (Summative) - Due Monday 01/03/2021 11.59pm
-* Problem Set 4 (Summative) - Due Friday 12/03/2021 11.59pm
-* Problem Set 5 (Summative) - Due Thursday 01/04/2021 11.59pm
+* Problem Set 2 (Summative): Due Wednesday 03/03/2021 1:00pm
+* Problem Set 3 (Summative): Due Wednesday 17/03/2021 1:00pm
+* Problem Set 4 (Summative): Due Wednesday 31/03/2021 1:00pm
+* Problem Set 5 (Summative): Due Wednesday 14/04/2021 1:00pm
 
 #### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
 
