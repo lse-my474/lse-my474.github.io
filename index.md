@@ -19,7 +19,7 @@ colorlinks: true
 
 ### Course Information
 
-* Lectures Prerecorded
+* Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/dd29c349-9eba-4028-bf7b-999ed047f4b5/public))
 * Classes (weeks 2, 4, 7, 9, 11):
    * Wed 16:00-17:30 (SB)
    * Thu 09:00-10:30 (SB)
