@@ -20,23 +20,26 @@ colorlinks: true
 ### Course Information
 
 * Lectures Prerecorded
-* Class times TBD
+* Classes (weeks 2, 4, 7, 9, 11):
+   * Wed 16:00-17:30 (SB)
+   * Thu 09:00-10:30 (SB)
+   * Thu 17:00-18:30 (SJ)
 
 No lectures or classes will take place during School Reading Week 6.
 
-| **Week** | **Topic**                            | **Instructor** |
-|:----------:|:--------------------------------------|:---------|
-| 1        | [What is Machine Learning?](#week-1-what-is-machine-learning)       | BM |
-| 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality) | BM |
-| 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)       | BM |
-| 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                  | BM |
-| 5        | [Regularization, Decision Trees](#week-5-regularization-decision-trees) | BM |
-| 6        | _Reading Week_                       | - |
-| 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)          | BM |
-| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml)                   | BM |
-| 9       | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)           | FG |
-| 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)           | FG |
-| 11        | [Other Varieties of Machine Learning](#week-11-other-varieties-of-machine-learning)           | FG |
+| **Week** | **Topic**                                                                                                             | **Instructor** |
+|:--------:|:----------------------------------------------------------------------------------------------------------------------|:---------------|
+| 1        | [What is Machine Learning?](#week-1-what-is-machine-learning)                                                         | BM             |
+| 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality)     | BM             |
+| 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)         | BM             |
+| 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                      | BM             |
+| 5        | [Regularization, Decision Trees](#week-5-regularization-decision-trees)                                               | BM             |
+| 6        | _Reading Week_                                                                                                        |  -             |
+| 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)                           | BM             |
+| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml) | BM             |
+| 9        | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)                                                    | FG             |
+| 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)                                     | FG             |
+| 11       | [Other Varieties of Machine Learning](#week-11-other-varieties-of-machine-learning)                                   | FG             |
 
 ### Course Description
 
