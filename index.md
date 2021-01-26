@@ -195,6 +195,8 @@ This week we focus on the big picture: what is machine learning? We explore the 
 
 <!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
 
+<!-- *Github Reference Materials:* [Click here](https://github.com/lse-my474/lectures/tree/master/github-user-guides) for reference guides to Github. -->
+
 #### Week 3: [Linear Discriminant Analysis, Logistic Regression](https://github.com/lse-my474/lectures/blob/master/week3/)
 
 *Reading:*
