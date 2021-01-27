@@ -193,9 +193,9 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * LFD Ch. 2
 * Mullainathan, Sendhil, and Jann Spiess. 2017. "Machine Learning: An Applied Econometric Approach." Journal of Economic Perspectives, 31 (2): 87-106.
 
-<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+ *Seminar Materials:* [Click here](https://classroom.github.com/a/SCt_-tES) to access seminar materials **when instructed**.
 
-<!-- *Github Reference Materials:* [Click here](https://github.com/lse-my474/lectures/tree/master/github-user-guides) for reference guides to Github. -->
+*Github Reference Materials:* [Click here](https://github.com/lse-my474/lectures/tree/master/github-user-guides) for reference guides to Github. 
 
 #### Week 3: [Linear Discriminant Analysis, Logistic Regression](https://github.com/lse-my474/lectures/blob/master/week3/)
 
