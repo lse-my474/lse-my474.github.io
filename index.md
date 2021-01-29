@@ -33,7 +33,7 @@ No lectures or classes will take place during School Reading Week 6.
 | 1        | [What is Machine Learning?](#week-1-what-is-machine-learning)                                                         | BM             |
 | 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality)     | BM             |
 | 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)         | BM             |
-| 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                      | BM             |
+| 4        | [Gradient Descent, Bootstrap, Cross-Validation, Hyperparameters](#week-4-gradient-descent-bootstrap-cross-validation-hyperparameters)   | BM             |
 | 5        | [Regularization, Decision Trees](#week-5-regularization-decision-trees)                                               | BM             |
 | 6        | _Reading Week_                                                                                                        |  -             |
 | 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)                           | BM             |
@@ -203,7 +203,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * ISL Ch. 3 (If you need a refresher on linear regression)
 * ISL Ch. 4
 
-#### Week 4: [Features, Model selection, Cross-Validation](https://github.com/lse-my474/lectures/blob/master/week4/)
+#### Week 4: [Gradient Descent, Bootstrap, Cross-Validation, Hyperparameters](https://github.com/lse-my474/lectures/blob/master/week4/)
 
 *Reading:*
 * ISL Ch. 5
