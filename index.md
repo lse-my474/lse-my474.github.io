@@ -236,11 +236,12 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 8: [Bias, Fairness, Accountability, and Transparency in ML](https://github.com/lse-my474/lectures/blob/master/week8/)
 
 *Reading:*
-* Crawford, Kate. The Trouble with Bias. Link: [Access video here](https://www.youtube.com/watch?v=fMym_BKWQzk)
+* [Lee, Nicol Turner, Paul Resnick, and Genie Barton. "Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms." Brookings Institute: Washington, DC, USA (2019).](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/)
 * Wallach, Hanna. "Big Data, Machine Learning, and the Social Sciences: Fairness, Accountability, and Transparency." NeurIPS Workshop on Fairness, Accountability, and Transparency in Machine Learning. 2014.
 * Deibert, Ronald J. "The Road to Digital Unfreedom: Three Painful Truths About Social Media." Journal of Democracy 30.1 (2019): 25-39.
 
 *Further Reading:*
+* Crawford, Kate. The Trouble with Bias. Link: [Access video here](https://www.youtube.com/watch?v=fMym_BKWQzk)
 * Bolukbasi, Tolga, et al. "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings." Advances in Neural Information Processing Systems. 2016.
 * Levin, Sam. "Imprisoned by algorithms: the dark side of California ending cash bail." The Guardian. 2018. ([Access article here](https://www.theguardian.com/us-news/2018/sep/07/imprisoned-by-algorithms-the-dark-side-of-california-ending-cash-bail))
 * Rajagopalan, Megha. "This Is What A 21st-Century Police State Really Looks Like." February 2, 2018 ([Access article here](https://www.buzzfeednews.com/article/meghara/the-police-state-of-the-future-is-already-here))
