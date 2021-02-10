@@ -214,7 +214,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
 * Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
 
-<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+*Seminar Materials:* [Click here](https://classroom.github.com/a/gT1tbgpT) to access seminar materials **when instructed**.
 
 #### Week 5: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week5/)
 
