@@ -171,7 +171,7 @@ Scores for the final coding competition will be calculated on Kaggle and grades 
 This week we focus on the big picture: what is machine learning? We explore the main varieties of what we consider machine learning and discuss the problems involved in prediction and generalization from training data.
 
 *Reading:*
-* Learning from Data (LDF) Ch. 1
+* Learning from Data (LDF) Ch. 1 (scan on Moodle)
 * Introduction to Statistical Learning (ISL) 2.1-2.3
 * ISL 3.1-3.3
 
