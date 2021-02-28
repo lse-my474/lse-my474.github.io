@@ -13,30 +13,34 @@ colorlinks: true
 ### Instructors
 
 * [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 9:00-11:00 (held on Zoom, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
-* [Siân Brooke](mailto:s.j.brooke@lse.ac.uk), Department of Methodology.  *Office hours*: TBD (book via Student Hub)
-* [Sarah Jewett](mailto:s.jewett1@lse.ac.uk), European Institute.  *Office hours*: TBD (book via Student Hub)
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 16:00-18:00 (held on Zoom, book via Student Hub)
+* [Siân Brooke](mailto:s.j.brooke@lse.ac.uk), Department of Methodology.  *Office hours*: Fridays 15:00-17:00 (held on Zoom, book via Student Hub)
+* [Sarah Jewett](mailto:s.jewett1@lse.ac.uk), Department of Government.
 
 ### Course Information
 
-* Lectures Prerecorded
-* Class times TBD
+* Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/dd29c349-9eba-4028-bf7b-999ed047f4b5/public))
+* Q&A Sessions Wednesdays 09:00-10:00 (Zoom link on Moodle)
+* Classes (weeks 2, 4, 7, 9, 11):
+   * Wed 16:00-17:30 (SB)
+   * Thu 09:00-10:30 (SB)
+   * Thu 17:00-18:30 (SJ)
 
 No lectures or classes will take place during School Reading Week 6.
 
-| **Week** | **Topic**                            | **Instructor** |
-|:----------:|:--------------------------------------|:---------|
-| 1        | [What is Machine Learning?](#week-1-what-is-machine-learning)       | BM |
-| 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality) | BM |
-| 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)       | BM |
-| 4        | [Features, Model selection, Cross-Validation](#week-4-features-model-selection-cross-validation)                  | BM |
-| 5        | [Regularization, Decision Trees](#week-5-regularization-decision-trees) | BM |
-| 6        | _Reading Week_                       | - |
-| 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)          | BM |
-| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml)                   | BM |
-| 9       | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)           | FG |
-| 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)           | FG |
-| 11        | [Other Varieties of Machine Learning](#week-11-other-varieties-of-machine-learning)           | FG |
+| **Week** | **Topic**                                                                                                             | **Instructor** |
+|:--------:|:----------------------------------------------------------------------------------------------------------------------|:---------------|
+| 1        | [What is Machine Learning?](#week-1-what-is-machine-learning)                                                         | BM             |
+| 2        | [Generalization, Inference, Prediction, and Causality](#week-2-generalization-inference-prediction-and-causality)     | BM             |
+| 3        | [Linear Discriminant Analysis, Logistic Regression](#week-3-linear-discriminant-analysis-logistic-regression)         | BM             |
+| 4        | [Gradient Descent, Bootstrap, Cross-Validation, Hyperparameters](#week-4-gradient-descent-bootstrap-cross-validation-hyperparameters)   | BM             |
+| 5        | [Regularization, Decision Trees](#week-5-regularization-decision-trees)                                               | BM             |
+| 6        | _Reading Week_                                                                                                        |  -             |
+| 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)                           | BM             |
+| 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml) | BM             |
+| 9        | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)                                                    | FG             |
+| 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)                                     | FG             |
+| 11       | [Other Varieties of Machine Learning](#week-11-other-varieties-of-machine-learning)                                   | FG             |
 
 ### Course Description
 
@@ -80,6 +84,8 @@ The ISL textbook uses the R programming language for labs that you are required 
 
 #### Problem Sets for master's students enrolled in MY474 and PhD students enrolled in MY574 (40% of total mark)
 
+Problem sets will be assigned at the beginning of each lab session. These will involve computer exercises applied to data supplied by the instructor. These will be submitted via GitHub Classroom by their due date, and will be marked to provide 40% of the course grade.
+
 Problem sets consist of two parts:
 
 1. Written responses
@@ -89,14 +95,14 @@ Both parts should be included in the Rmd and PDF files to be uploaded to Moodle.
 
 One formative problem set will **not** count toward your final mark, but will give you an idea of how problem sets are structured:
 
-* Problem Set 1 (Formative, i.e. not graded)
+* Problem Set 1 (Formative): Due Wednesday 10/02/2021 1:00pm
 
 There will be four summative problem sets that will count toward the final grade:
 
-* Problem Set 2 (Summative) - Due Week 4 seminar
-* Problem Set 3 (Summative) - Due Week 7 seminar
-* Problem Set 4 (Summative) - Due Week 9 seminar
-* Problem Set 5 (Summative) - Due Week 11 seminar
+* Problem Set 2 (Summative): Due Wednesday 03/03/2021 1:00pm
+* Problem Set 3 (Summative): Due Wednesday 17/03/2021 1:00pm
+* Problem Set 4 (Summative): Due Wednesday 31/03/2021 1:00pm
+* Problem Set 5 (Summative): Due Wednesday 14/04/2021 1:00pm
 
 #### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
 
@@ -173,7 +179,6 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Reading:*
 * Learning from Data (LDF) Ch. 1 (scan on Moodle)
 * Introduction to Statistical Learning (ISL) 2.1-2.3
-* ISL 3.1-3.3
 
 *Further Reading:*
 * Elements of Statistical Learning (ESL) 2.1-2.6
@@ -181,33 +186,35 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 2: [Generalization, Inference, Prediction, and Causality](https://github.com/lse-my474/lectures/blob/master/week2/)
 
 *Reading:*
-* LFD Ch. 2
 * Titiunik, Rocío. "Can Big Data Solve the Fundamental Problem of Causal Inference?." PS: Political Science \& Politics 48.1 (2015): 75-79.
 * Monroe, Burt L.; Pan, Jennifer; Roberts, Margaret E.; Sen, Maya, and Betsy Sinclair. 2015. "No! Formal Theory, Causal Inference, and Big Data Are Not Contradictory Trends in Political Science." PS: Political Science and Politics.
 
 *Further Reading:*
+* LFD Ch. 2
 * Mullainathan, Sendhil, and Jann Spiess. 2017. "Machine Learning: An Applied Econometric Approach." Journal of Economic Perspectives, 31 (2): 87-106.
 
-<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+ *Seminar Materials:* [Click here](https://classroom.github.com/a/SCt_-tES) to access seminar materials **when instructed**.
+
+*Github Reference Materials:* [Click here](https://github.com/lse-my474/lectures/tree/master/github-user-guides) for reference guides to Github. 
 
 #### Week 3: [Linear Discriminant Analysis, Logistic Regression](https://github.com/lse-my474/lectures/blob/master/week3/)
 
 *Reading:*
-* ISL 4.1-4.3
-* ISL Lab 4.6.2
+* ISL Ch. 3 (If you need a refresher on linear regression)
+* ISL Ch. 4
 
-#### Week 4: [Features, Model selection, Cross-Validation](https://github.com/lse-my474/lectures/blob/master/week4/)
+#### Week 4: [Gradient Descent, Bootstrap, Cross-Validation, Hyperparameters](https://github.com/lse-my474/lectures/blob/master/week4/)
 
 *Reading:*
-* ISL 5.1, Lab 5.3.1-5.3.3
-* Feature Engineering and Selection Ch. 3
+* ISL Ch. 5
 
 *Further Reading:*
+* Feature Engineering and Selection Ch. 3
 * Aloís Bissuel. "Hyper-parameter optimization algorithms: a short review." Medium. ([Access article here](https://medium.com/criteo-labs/hyper-parameter-optimization-algorithms-2fe447525903))
 * Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
 * Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
 
-<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+*Seminar Materials:* [Click here](https://classroom.github.com/a/gT1tbgpT) to access seminar materials **when instructed**.
 
 #### Week 5: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week5/)
 
@@ -229,11 +236,12 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 8: [Bias, Fairness, Accountability, and Transparency in ML](https://github.com/lse-my474/lectures/blob/master/week8/)
 
 *Reading:*
-* Crawford, Kate. The Trouble with Bias. Link: [Access video here](https://www.youtube.com/watch?v=fMym_BKWQzk)
+* [Lee, Nicol Turner, Paul Resnick, and Genie Barton. "Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms." Brookings Institute: Washington, DC, USA (2019).](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/)
 * Wallach, Hanna. "Big Data, Machine Learning, and the Social Sciences: Fairness, Accountability, and Transparency." NeurIPS Workshop on Fairness, Accountability, and Transparency in Machine Learning. 2014.
 * Deibert, Ronald J. "The Road to Digital Unfreedom: Three Painful Truths About Social Media." Journal of Democracy 30.1 (2019): 25-39.
 
 *Further Reading:*
+* Crawford, Kate. The Trouble with Bias. Link: [Access video here](https://www.youtube.com/watch?v=fMym_BKWQzk)
 * Bolukbasi, Tolga, et al. "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings." Advances in Neural Information Processing Systems. 2016.
 * Levin, Sam. "Imprisoned by algorithms: the dark side of California ending cash bail." The Guardian. 2018. ([Access article here](https://www.theguardian.com/us-news/2018/sep/07/imprisoned-by-algorithms-the-dark-side-of-california-ending-cash-bail))
 * Rajagopalan, Megha. "This Is What A 21st-Century Police State Really Looks Like." February 2, 2018 ([Access article here](https://www.buzzfeednews.com/article/meghara/the-police-state-of-the-future-is-already-here))
