@@ -255,7 +255,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Further Reading:*
 * Hill, Daniel W., and Zachary M. Jones. "An Empirical Evaluation of Explanations for State Repression." American Political Science Review 108.3 (2014): 661-687.
 
-<!-- *Seminar Materials:* [Click here](https://classroom.github.com/a/FiF36LJ7) to access seminar materials **when instructed**.-->
+*Seminar Materials:* [Click here](https://classroom.github.com/a/FiF36LJ7) to access seminar materials **when instructed**.
 
 #### Week 10: [Dimension Reduction and Clustering](https://github.com/lse-my474/lectures/blob/master/week10/)
 
