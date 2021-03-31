@@ -267,4 +267,4 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Reading:*
 * TBD
 
-<!-- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.-->
+ *Seminar Materials:* [Click here](https://classroom.github.com/a/WY2mAMn3) to access seminar materials **when instructed**.
