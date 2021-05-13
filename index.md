@@ -265,8 +265,11 @@ This week we focus on the big picture: what is machine learning? We explore the 
 
 #### Week 11: [Neural Networks](https://github.com/lse-my474/lectures/blob/master/week11/)
 
+*Reading:*
+* [Introductory video sequence](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 *Further Reading:*
-* [Interactive tool for intuition](https://playground.tensorflow.org/)
+* [Interactive tool](https://playground.tensorflow.org/)
 * [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
 
  *Seminar Materials:* [Click here](https://classroom.github.com/a/WY2mAMn3) to access seminar materials **when instructed**.
