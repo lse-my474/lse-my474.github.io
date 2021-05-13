@@ -40,13 +40,13 @@ No lectures or classes will take place during School Reading Week 6.
 | 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml) | BM             |
 | 9        | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)                                                    | FG             |
 | 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)                                     | FG             |
-| 11       | [Other Varieties of Machine Learning](#week-11-other-varieties-of-machine-learning)                                   | FG             |
+| 11       | [Neural Networks](#week-11-neural-networks)                                                                           | FG             |
 
 ### Course Description
 
 The amount of data available to social science researchers has exploded in recent years. Advances in machine learning have given social scientists new tools to make sense of these data to answer big and important questions that we did not have the tools to answer just a few years before. For example, some researchers have used machine learning to explore patterns in large databases of text in an effort to identify how the racial and gender biases encoded in language have changed over time. Others have used machine learning methods to detect and analyze the behavior of state-sponsored bots and trolls and the content they produce. In this class we will introduce a wide range of machine learning methods and their applications to social science.
 
-The course surveys machine learning methods and concepts with the application to social sciences in mind. We begin with discussions of how machine learning methods can be adapted from the predictive purposes for which they were originally designed, to the ultimate goal of inference. We will then move on to a survey of common machine learning models for classification and regression, frameworks for out-of-sample validation, and finally, a discussion of unsupervised learning and a brief overview of state-of-the-art methods such as deep learning, reinforcement learning, and active learning.
+The course surveys machine learning methods and concepts with the application to social sciences in mind. We begin with discussions of how machine learning methods can be adapted from the predictive purposes for which they were originally designed, to the ultimate goal of inference. We will then move on to a survey of common machine learning models for classification and regression, frameworks for out-of-sample validation, and finally, a discussion of unsupervised learning and an introduction to neural networks.
 
 ### Objectives
 
@@ -253,6 +253,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * ISL 8.2
 
 *Further Reading:*
+* [LightGBM documentation](https://lightgbm.readthedocs.io/en/latest/R/reference/)
 * Hill, Daniel W., and Zachary M. Jones. "An Empirical Evaluation of Explanations for State Repression." American Political Science Review 108.3 (2014): 661-687.
 
 *Seminar Materials:* [Click here](https://classroom.github.com/a/FiF36LJ7) to access seminar materials **when instructed**.
@@ -262,9 +263,10 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Reading:*
 * ISL Ch. 10
 
-#### Week 11: [Other Varieties of Machine Learning](https://github.com/lse-my474/lectures/blob/master/week11/)
+#### Week 11: [Neural Networks](https://github.com/lse-my474/lectures/blob/master/week11/)
 
-*Reading:*
-* TBD
+*Further Reading:*
+* [Interactive tool for intuition](https://playground.tensorflow.org/)
+* [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
 
  *Seminar Materials:* [Click here](https://classroom.github.com/a/WY2mAMn3) to access seminar materials **when instructed**.
