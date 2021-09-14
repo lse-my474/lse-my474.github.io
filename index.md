@@ -193,7 +193,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * LFD Ch. 2
 * Mullainathan, Sendhil, and Jann Spiess. 2017. "Machine Learning: An Applied Econometric Approach." Journal of Economic Perspectives, 31 (2): 87-106.
 
- *Seminar Materials:* [Click here](https://classroom.github.com/a/SCt_-tES) to access seminar materials **when instructed**.
+ *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
 
 *Github Reference Materials:* [Click here](https://github.com/lse-my474/lectures/tree/master/github-user-guides) for reference guides to Github. 
 
@@ -214,7 +214,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * Ghahramani, Zoubin. "Probabilistic machine learning and artificial intelligence." Nature 521.7553 (2015): 452.
 * Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/gT1tbgpT) to access seminar materials **when instructed**.
+*Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
 
 #### Week 5: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week5/)
 
@@ -231,7 +231,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Further Reading:*
 * Barberá, Pablo, et al. "Automated text classification of news articles: A practical guide." Political Analysis (2019): 1-24.
 
- *Seminar Materials:* [Click here](https://classroom.github.com/a/_H_dzEua) to access seminar materials **when instructed**.
+ *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
 
 #### Week 8: [Bias, Fairness, Accountability, and Transparency in ML](https://github.com/lse-my474/lectures/blob/master/week8/)
 
@@ -256,7 +256,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * [LightGBM documentation](https://lightgbm.readthedocs.io/en/latest/R/reference/)
 * Hill, Daniel W., and Zachary M. Jones. "An Empirical Evaluation of Explanations for State Repression." American Political Science Review 108.3 (2014): 661-687.
 
-*Seminar Materials:* [Click here](https://classroom.github.com/a/FiF36LJ7) to access seminar materials **when instructed**.
+*Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
 
 #### Week 10: [Dimension Reduction and Clustering](https://github.com/lse-my474/lectures/blob/master/week10/)
 
@@ -272,4 +272,4 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * [Interactive tool](https://playground.tensorflow.org/)
 * [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
 
- *Seminar Materials:* [Click here](https://classroom.github.com/a/WY2mAMn3) to access seminar materials **when instructed**.
+ *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
