@@ -8,12 +8,12 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # MY474 - Applied Machine Learning for Social Science
 
-### Lent Term 2021
+### Lent Term 2022
 
 ### Instructors
 
-* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Mondays 9:00-11:00 (held on Zoom, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 16:00-18:00 (held on Zoom, book via Student Hub)
+* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Thursday and Friday 9:00-10:00 (held on Zoom, or in person at COL 7.14, book via Student Hub)
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: ??? (held on Zoom, or in person at COL 8.??, book via Student Hub)
 * [Siân Brooke](mailto:s.j.brooke@lse.ac.uk), Department of Methodology.  *Office hours*: Fridays 15:00-17:00 (held on Zoom, book via Student Hub)
 * [Sarah Jewett](mailto:s.jewett1@lse.ac.uk), Department of Government.
 
@@ -22,9 +22,9 @@ colorlinks: true
 * Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/dd29c349-9eba-4028-bf7b-999ed047f4b5/public))
 * Q&A Sessions Wednesdays 09:00-10:00 (Zoom link on Moodle)
 * Classes (weeks 2, 4, 7, 9, 11):
-   * Wed 16:00-17:30 (SB)
-   * Thu 09:00-10:30 (SB)
-   * Thu 17:00-18:30 (SJ)
+   * Wed 16:00-17:30
+   * Thu 09:00-10:30
+   * Thu 17:00-18:30
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -95,25 +95,25 @@ Both parts should be included in the Rmd and PDF files to be uploaded to Moodle.
 
 One formative problem set will **not** count toward your final mark, but will give you an idea of how problem sets are structured:
 
-* Problem Set 1 (Formative): Due Wednesday 10/02/2021 1:00pm
+* Problem Set 1 (Formative): Due Wednesday, 9 February at 2:00pm
 
 There will be four summative problem sets that will count toward the final grade:
 
-* Problem Set 2 (Summative): Due Wednesday 03/03/2021 1:00pm
-* Problem Set 3 (Summative): Due Wednesday 17/03/2021 1:00pm
-* Problem Set 4 (Summative): Due Wednesday 31/03/2021 1:00pm
-* Problem Set 5 (Summative): Due Wednesday 14/04/2021 1:00pm
+* Problem Set 2 (Summative): Due Wednesday, 2 March at 2:00pm
+* Problem Set 3 (Summative): Due Wednesday, 16 March at 2:00pm
+* Problem Set 4 (Summative): Due Wednesday, 30 March at 2:00pm
+* Problem Set 5 (Summative): Due Wednesday, 13 April at 2:00pm
 
 #### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
 
 The multiple choice assessment is a timed quiz administered on Moodle, and is based on lecture, seminars, and readings. The exam will be released on Moodle at 7:00am on Monday of Week 11. You can start any time between 7:00am and 2:00pm, but the exam is timed and must be completed within 1 hour. Once the Moodle exam is opened, you will have 1 hour to complete it. After 1 hour your exam will be automatically submitted and you will have no further access to the exam. The exam must be submitted by 2:00pm.
 
-#### Take Home Assessment for master's students enrolled in MY474 (Due Monday, May 24, 2021 by 2pm, 30% of total mark)
+#### Take Home Assessment for master's students enrolled in MY474 (Due Monday, May 23, by 2pm, 30% of total mark)
 
 1. **Kaggle competition classifying toxic comments (10% of total mark):** A text classification competition will be hosted on the Kaggle website for all students enrolled in the class. Students will submit model predictions for held-out data to Kaggle and the performance of their model output will be calculated on the Kaggle site. The competition will open to students the first day of Summer Term.
-2. **Code report and write-up (submitted as code files such as Rmd and PDF on Github Classroom, 20% of total mark)**: Code reproducing the prediction file uploaded to Kaggle should be provided in a Rmd file (or equivalent) in chunks that are annotated. Code should be supplemented by a writeup that documents 1) how you settled on the final model, 2) the reasoning behind modelling choices, 3) how you evaluated each iteration of your model, 4) a discussion of feature engineering choices, and 5) conclusions and reflections on the modelling process. The writeup is due at 2:00pm on May 24, 2021.
+2. **Code report and write-up (submitted as code files such as Rmd and PDF on Github Classroom, 20% of total mark)**: Code reproducing the prediction file uploaded to Kaggle should be provided in a Rmd file (or equivalent) in chunks that are annotated. Code should be supplemented by a writeup that documents 1) how you settled on the final model, 2) the reasoning behind modelling choices, 3) how you evaluated each iteration of your model, 4) a discussion of feature engineering choices, and 5) conclusions and reflections on the modelling process. The writeup is due at 2:00pm on May 23.
 
-#### Take Home Assessment for PhD students enrolled in MY574 (Due Monday, May 24, 2021 by 2pm, 30% of total mark)
+#### Take Home Assessment for PhD students enrolled in MY574 (Due Monday, May 23, by 2pm, 30% of total mark)
 
 PhD students are expected to submit a 3000-word paper in which they identify and contextualize a relevant social data science problem related to their dissertation research, find suitable data to address it, plan and conduct extensive machine learning analysis on the data, and present the findings. Marking of these assessments will be at a level appropriate for PhD students.
 
@@ -129,7 +129,7 @@ Guidelines:
 * What are your methods? What tools from class will you use to accomplish these goals?
 * Writing should be clear, well-structured, and easy to follow.
 
-##### Project Report (Due Monday, May 24, 2021 by 2pm, 30% of total mark)
+##### Project Report (Due Monday, May 23, by 2pm, 30% of total mark)
 
 PhD students will submit a project report, which is a 3000-word paper in which they identify and contextualize a relevant social data science problem related to their dissertation research, find suitable data to address it, plan and conduct extensive machine learning analysis on the data, and present the findings. This report should be thought of as a first draft of a paper to submit to a scholarly journal. The analysis need not be ready for publication, but should suggest a roadmap for eventual publication (through discussion of additional analyses to be conducted, additional data to be collected, etc.) Format your report like you would an academic paper. In addition to the paper, you should also include an R markdown file with code and figures used for the analysis. These components should be submitted on Moodle.
 
