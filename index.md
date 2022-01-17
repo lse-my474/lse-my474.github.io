@@ -12,8 +12,8 @@ colorlinks: true
 
 ### Instructors
 
-* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Thursday and Friday 9:00-10:00 (held on Zoom, or in person at COL 7.14, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: ??? (held on Zoom, or in person at COL 8.??, book via Student Hub)
+* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Thursday and Friday 9:00-10:00 (held on Zoom or in person at COL 7.14, book via Student Hub)
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Thursday 16:00-18:00 (held on Zoom or in person at COL 8.10, book via Student Hub)
 * [Yuanmo He](mailto:Y.He54@lse.ac.uk), Department of Methodology.
 
 ### Course Information
