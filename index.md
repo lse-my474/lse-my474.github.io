@@ -18,7 +18,7 @@ colorlinks: true
 
 ### Course Information
 
-* Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/dd29c349-9eba-4028-bf7b-999ed047f4b5/public))
+* Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/f6b7d156-dbfe-4ef5-a16f-d0a1d17ebbe4/home))
 * Q&A Sessions Wednesdays 09:00-10:00 (Zoom link on Moodle)
 * Classes (weeks 2, 4, 7, 9, 11):
    * Thu 09:00-10:30
