@@ -213,6 +213,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of Machine Learning Research 13.Feb (2012): 281-305.
 
 *Seminar Materials:* [Click here](https://classroom.github.com/a/gT1tbgpT) to access seminar materials **when instructed**.
+*Answers to Lab Exercises:* [Click here](https://github.com/lse-my474/lectures/tree/master/ISLR%20Exercise%20Answers)
 
 #### Week 5: [Regularization, Decision Trees](https://github.com/lse-my474/lectures/blob/master/week5/)
 
