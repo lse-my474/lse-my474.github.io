@@ -230,7 +230,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Further Reading:*
 * Barberá, Pablo, et al. "Automated text classification of news articles: A practical guide." Political Analysis (2019): 1-24.
 
- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
+ *Seminar Materials:* [Click here](https://classroom.github.com/a/_H_dzEua) to access seminar materials **when instructed**.
 
 #### Week 8: [Bias, Fairness, Accountability, and Transparency in ML](https://github.com/lse-my474/lectures/blob/master/week8/)
 
