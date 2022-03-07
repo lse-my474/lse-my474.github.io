@@ -269,9 +269,9 @@ This week we focus on the big picture: what is machine learning? We explore the 
 
 *Reading:*
 * [Introductory videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* ISL Ch. 10
 
 *Further Reading:*
-* ISL Ch. 10
 * [Interactive tool](https://playground.tensorflow.org/)
 * [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
 
