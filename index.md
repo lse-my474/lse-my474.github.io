@@ -19,7 +19,7 @@ colorlinks: true
 ### Course Information
 
 * Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/f6b7d156-dbfe-4ef5-a16f-d0a1d17ebbe4/home))
-* Q&A Sessions Wednesdays 09:00-10:00 (Zoom link on Moodle)
+* Q&A Sessions Wednesdays 09:00-10:00 (weeks 1-8: Zoom, weeks 9-11: MAR.1.08)
 * Classes (weeks 2, 4, 7, 9, 11):
    * Thu 09:00-10:30
    * Thu 17:00-18:30
@@ -252,7 +252,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 9: [Ensembles, Bagging, Boosting](https://github.com/lse-my474/lectures/blob/master/week9/)
 
 *Reading:*
-* ISL 8.2
+* ISL Ch. 8
 
 *Further Reading:*
 * [LightGBM documentation](https://lightgbm.readthedocs.io/en/latest/R/reference/)
@@ -263,7 +263,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 #### Week 10: [Dimension Reduction and Clustering](https://github.com/lse-my474/lectures/blob/master/week10/)
 
 *Reading:*
-* ISL Ch. 10
+* ISL Ch. 12
 
 #### Week 11: [Neural Networks](https://github.com/lse-my474/lectures/blob/master/week11/)
 
@@ -271,6 +271,7 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * [Introductory videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 *Further Reading:*
+* ISL Ch. 10
 * [Interactive tool](https://playground.tensorflow.org/)
 * [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
 
