@@ -99,7 +99,7 @@ There will be four summative problem sets that will count toward the final grade
 
 * Problem Set 2 (Summative): Due Wednesday, 2 March at 2:00pm
 * Problem Set 3 (Summative): Due Wednesday, 16 March at 2:00pm
-* Problem Set 4 (Summative): Due Wednesday, 30 March at 2:00pm
+* Problem Set 4 (Summative): Due Wednesday, 6 April at 2:00pm
 * Problem Set 5 (Summative): Due Wednesday, 13 April at 2:00pm
 
 #### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
