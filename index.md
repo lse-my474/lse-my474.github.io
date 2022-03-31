@@ -275,4 +275,4 @@ This week we focus on the big picture: what is machine learning? We explore the 
 * [Interactive tool](https://playground.tensorflow.org/)
 * [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
 
- *Seminar Materials:* [Click here]() to access seminar materials **when instructed**.
+ *Seminar Materials:* You can find the GitHub Classroom link for this seminar on the Moodle page under Seminars
