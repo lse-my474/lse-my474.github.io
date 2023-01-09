@@ -8,21 +8,20 @@ colorlinks: true
 ![LSE](images/lse-logo.jpg)
 # MY474 - Applied Machine Learning for Social Science
 
-### Lent Term 2022
+### Lent Term 2023
 
 ### Instructors
 
-* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: Thursdays 10:45-12:45 (held on Zoom, book via Student Hub)
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 17:00-19:00 (book via Student Hub)
+* [Blake Miller](mailto:b.a.miller@lse.ac.uk), Department of Methodology.  *Office hours*: refer to Student Hub
+* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: refer to Student Hub
 * [Yuanmo He](mailto:Y.He54@lse.ac.uk), Department of Methodology.
 
 ### Course Information
 
-* Lectures Prerecorded ([View on Echo360](https://echo360.org.uk/section/f6b7d156-dbfe-4ef5-a16f-d0a1d17ebbe4/home))
-* Q&A Sessions Wednesdays 09:00-10:00 (weeks 1-8: Zoom, weeks 9-11: MAR.1.08)
+* Lectures Wed 09:00-11:00, CBG.G.01 ([View on Echo360]())
 * Classes (weeks 2, 4, 7, 9, 11):
-   * Thu 09:00-10:30
-   * Thu 17:00-18:30
+   * Thu 09:00-11:00, STC.S018
+   * Thu 17:00-19:00, STC.S018
 
 No lectures or classes will take place during School Reading Week 6.
 
@@ -76,9 +75,8 @@ The ISL textbook uses the R programming language for labs that you are required 
 
 ### Assessments
 
-* Problem Sets (40%) in the LT.
-* Multiple Choice Assessment (30%) in the LT.
-* Take-home assessment (30%) in the ST (Master's and PhD students will have different assessments, see below).
+* Problem Sets (60%) in the LT.
+* Quizzes (40%) in the LT for MY474 students, or Take-home assessment (40%) in the ST for PhD students enrolled in MY574.
 
 #### Problem Sets for master's students enrolled in MY474 and PhD students enrolled in MY574 (40% of total mark)
 
@@ -102,14 +100,9 @@ There will be four summative problem sets that will count toward the final grade
 * Problem Set 4 (Summative): Due Wednesday, 6 April at 2:00pm
 * Problem Set 5 (Summative): Due Wednesday, 13 April at 2:00pm
 
-#### Multiple Choice Assessment for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
+#### Quizzes for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
 
-The multiple choice assessment is a timed quiz administered on Moodle, and is based on lecture, seminars, and readings. The exam will be released on Moodle at 7:00am on Monday of Week 11. You can start any time between 7:00am and 2:00pm, but the exam is timed and must be completed within 1 hour. Once the Moodle exam is opened, you will have 1 hour to complete it. After 1 hour your exam will be automatically submitted and you will have no further access to the exam. The exam must be submitted by 2:00pm.
-
-#### Take Home Assessment for master's students enrolled in MY474 (Due Monday, May 23, by 2pm, 30% of total mark)
-
-1. **Kaggle competition classifying toxic comments (10% of total mark):** A text classification competition will be hosted on the Kaggle website for all students enrolled in the class. Students will submit model predictions for held-out data to Kaggle and the performance of their model output will be calculated on the Kaggle site. The competition will open to students the first day of Summer Term.
-2. **Code report and write-up (submitted as code files such as Rmd and PDF on Github Classroom, 20% of total mark)**: Code reproducing the prediction file uploaded to Kaggle should be provided in a Rmd file (or equivalent) in chunks that are annotated. Code should be supplemented by a writeup that documents 1) how you settled on the final model, 2) the reasoning behind modelling choices, 3) how you evaluated each iteration of your model, 4) a discussion of feature engineering choices, and 5) conclusions and reflections on the modelling process. The writeup is due at 2:00pm on May 23.
+There will be 5 timed quizzes administered on Qualtrics and linked to on Moodle. These quizzes will be based on lecture, seminars, and readings. The quiz will be released on Moodle at 8:00am on Thursdays of weeks 2, 4, 7, 9, and 11. You can start any time between 8:00am and 5:00pm, but the quiz is timed and must be completed within 15 minutes. Once the Moodle quiz is opened, you will have 15 minutes to complete it. The quiz must be submitted by 5:00pm.
 
 #### Take Home Assessment for PhD students enrolled in MY574 (Due Monday, May 23, by 2pm, 30% of total mark)
 
@@ -156,17 +149,6 @@ Short answer and coding assignments will be marked using the following criteria:
 * 50-59: Pass
 * 30-49: Fail
 * 0-29: Bad Fail
-
-#### Final Assessment Coding Competition
-
-Scores for the final coding competition will be calculated on Kaggle and grades will be determined by ranking in competition:
-
-- Top 2: 100
-- First Quintile: 95
-- Second Quintile: 90
-- Third Quintile: 85
-- Fourth Quintile: 80
-- Fifth Quintile: 75
 
 ### Schedule
 
