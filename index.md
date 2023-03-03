@@ -100,7 +100,7 @@ There will be four summative problem sets that will count toward the final grade
 * Problem Set 4 (Summative): Due Wednesday, 29 March at 2:00pm
 * Problem Set 5 (Summative): Due Wednesday, 12 April at 2:00pm
 
-#### Quizzes for master's students enrolled in MY474 and PhD students enrolled in MY574 (30% of total mark)
+#### Quizzes for master's students enrolled in MY474 and PhD students enrolled in MY574 (40% of total mark)
 
 There will be 5 timed quizzes administered on Qualtrics and linked to on Moodle. These quizzes will be based on lecture, seminars, and readings. The quiz will be released on Moodle at 8:00am on Thursdays of weeks 2, 4, 7, 9, and 11. You can start any time between 8:00am and 10:00pm, but the quiz is timed and must be completed within 15 minutes. Once the Moodle quiz is opened, you will have 15 minutes to complete it. The quiz must be submitted by 10:00pm.
 
