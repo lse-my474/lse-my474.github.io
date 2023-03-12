@@ -20,6 +20,7 @@ colorlinks: true
 
 * Lectures Wed 09:00-11:00, CBG.G.01 ([View on Echo360]())
 * Classes (weeks 2, 4, 7, 9, 11):
+   * Wed 16:00-18:00, STC.S018
    * Thu 09:00-11:00, STC.S018
    * Thu 17:00-19:00, STC.S018
 
@@ -36,8 +37,9 @@ No lectures or classes will take place during School Reading Week 6.
 | 7        | [Support Vector Machines, Active Learning](#week-7-support-vector-machines-active-learning)                           | BM             |
 | 8        | [Bias, Fairness, Accountability, and Transparency in ML](#week-8-bias-fairness-accountability-and-transparency-in-ml) | BM             |
 | 9        | [Ensembles, Bagging, Boosting](#week-9-ensembles-bagging-boosting)                                                    | FG             |
-| 10       | [Dimension Reduction and Clustering](#week-10-dimension-reduction-and-clustering)                                     | FG             |
-| 11       | [Neural Networks](#week-11-neural-networks)                                                                           | FG             |
+| 10       | [Neural Networks](#week-10-neural-networks)                                                                           | FG             |
+| 11       | [Unsupervised Learning](#week-11-unsupervised-learning)                                                               | FG             |
+
 
 ### Course Description
 
@@ -235,15 +237,11 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Further Reading:*
 * [LightGBM documentation](https://lightgbm.readthedocs.io/en/latest/R/reference/)
 * Hill, Daniel W., and Zachary M. Jones. "An Empirical Evaluation of Explanations for State Repression." American Political Science Review 108.3 (2014): 661-687.
+* Molnar, Christoph. "Interpretable Machine Learning", 2023, https://christophm.github.io/interpretable-ml-book/
 
 *Seminar Materials:* You can find the GitHub Classroom link for this seminar on Moodle.
 
-#### Week 10: [Dimension Reduction and Clustering](https://github.com/lse-my474/lectures/blob/master/week10/)
-
-*Reading:*
-* ISL Ch. 12
-
-#### Week 11: [Neural Networks](https://github.com/lse-my474/lectures/blob/master/week11/)
+#### Week 10: [Neural Networks](https://github.com/lse-my474/lectures/blob/master/week10/)
 
 *Reading:*
 * [Introductory videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -252,5 +250,10 @@ This week we focus on the big picture: what is machine learning? We explore the 
 *Further Reading:*
 * [Interactive tool](https://playground.tensorflow.org/)
 * [Goodfellow et al. 2016, Deep Learning](https://www.deeplearningbook.org/)
+
+#### Week 11: [Unsupervised Learning](https://github.com/lse-my474/lectures/blob/master/week11/)
+
+*Reading:*
+* ISL Ch. 12
 
 *Seminar Materials:* You can find the GitHub Classroom link for this seminar on Moodle.
